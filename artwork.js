@@ -21,4 +21,12 @@ const artworks = {
       size:"Giclee,Edition Size: 45 + 5 Artist Proofs ,Image: 21 x 14"
     }
 
-  };
+  
+  dcnkj: {
+    title: "dcnkj",
+    price: 2000,
+    image: "images/1759511578945_alpenglow.png",
+    desc: "cjnzjn",
+    size: "21x14"
+  },
+};
