@@ -93,4 +93,12 @@ const artworks = {
     desc: "ksdbcksb",
     size: "jnsdknsn"
   },
+
+  fgmdlkn: {
+    title: "fgmdlkn",
+    price: 520000,
+    image: "images/1759513830485_sunset.png",
+    desc: "ff gg",
+    size: "nsfgns"
+  },
 };
