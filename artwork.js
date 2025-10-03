@@ -37,4 +37,12 @@ const artworks = {
     desc: "jbfkjb",
     size: "21x14"
   },
+
+  sdknfkn: {
+    title: "sdknfkn",
+    price: 5000,
+    image: "images/1759512476166_alpenglow.png",
+    desc: ".sdmfm",
+    size: "dsn"
+  },
 };
