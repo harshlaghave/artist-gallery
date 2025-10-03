@@ -53,4 +53,12 @@ const artworks = {
     desc: "kndkjfns",
     size: "kjwnf"
   },
+
+  jljbjlb: {
+    title: "jljbjlb",
+    price: 5112,
+    image: "images/1759513119089_alpenglow.png",
+    desc: "bbkj",
+    size: "jnjlbjlb"
+  },
 };
