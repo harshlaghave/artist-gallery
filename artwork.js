@@ -69,4 +69,12 @@ const artworks = {
     desc: "ujgvjhv",
     size: "n bk n"
   },
+
+  dfgdf: {
+    title: "dfgdf",
+    price: 5520,
+    image: "images/1759513464587_alpenglow.png",
+    desc: "gfdgfb",
+    size: "22feg"
+  },
 };
