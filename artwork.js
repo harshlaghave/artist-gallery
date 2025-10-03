@@ -109,4 +109,12 @@ const artworks = {
     desc: "fgdsfg",
     size: "21x14"
   },
+
+  dsds: {
+    title: "dsds",
+    price: 2000,
+    image: "images/1759514052460_alpenglow.png",
+    desc: "fgdsfg",
+    size: "21x14"
+  },
 };
