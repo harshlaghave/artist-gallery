@@ -45,4 +45,12 @@ const artworks = {
     desc: ".sdmfm",
     size: "dsn"
   },
+
+  d_fs: {
+    title: "d fs",
+    price: 5000,
+    image: "images/1759512571168_sunset.png",
+    desc: "kndkjfns",
+    size: "kjwnf"
+  },
 };
