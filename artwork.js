@@ -61,4 +61,12 @@ const artworks = {
     desc: "bbkj",
     size: "jnjlbjlb"
   },
+
+  hvhjcvjhc: {
+    title: "hvhjcvjhc",
+    price: 2000,
+    image: "images/1759513388467_sunset.png",
+    desc: "ujgvjhv",
+    size: "n bk n"
+  },
 };
