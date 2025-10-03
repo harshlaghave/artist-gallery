@@ -29,4 +29,12 @@ const artworks = {
     desc: "cjnzjn",
     size: "21x14"
   },
+
+  sddfsb: {
+    title: "sddfsb",
+    price: 6000,
+    image: "images/1759511910076_sunset.png",
+    desc: "jbfkjb",
+    size: "21x14"
+  },
 };
