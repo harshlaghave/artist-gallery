@@ -85,4 +85,12 @@ const artworks = {
     desc: "gfdgfb",
     size: "22feg"
   },
+
+  fdvsdv: {
+    title: "fdvsdv",
+    price: 5222,
+    image: "images/1759513710393_moonlight.png",
+    desc: "ksdbcksb",
+    size: "jnsdknsn"
+  },
 };
